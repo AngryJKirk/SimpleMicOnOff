@@ -1,9 +1,0 @@
-C:\Users\Yaroslav\Desktop\SystemTrayApp\obj\x86\Release\SimpleMicOnOff.csprojAssemblyReference.cache
-C:\Users\Yaroslav\Desktop\SystemTrayApp\obj\x86\Release\SimpleMicOnOff.csproj.GenerateResource.cache
-C:\Users\Yaroslav\Desktop\SystemTrayApp\obj\x86\Release\SimpleMicOnOff.csproj.CoreCompileInputs.cache
-C:\Users\Yaroslav\Desktop\SystemTrayApp\bin\Release\SimpleMicOnOff.exe.config
-C:\Users\Yaroslav\Desktop\SystemTrayApp\bin\Release\SimpleMicOnOff.exe
-C:\Users\Yaroslav\Desktop\SystemTrayApp\bin\Release\SimpleMicOnOff.pdb
-C:\Users\Yaroslav\Desktop\SystemTrayApp\obj\x86\Release\SimpleMicOnOff.Properties.Resources.resources
-C:\Users\Yaroslav\Desktop\SystemTrayApp\obj\x86\Release\SimpleMicOnOff.exe
-C:\Users\Yaroslav\Desktop\SystemTrayApp\obj\x86\Release\SimpleMicOnOff.pdb
